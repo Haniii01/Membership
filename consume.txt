@@ -1,0 +1,2 @@
+name:wang sex:f bir:1/1 passwd:123 cum:14478.400000 grade:vip balance:200.000000
+name:zhang sex:m bir:2/1 passwd:123 cum:100.0 grade:svip balance:100.0
