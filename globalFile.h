@@ -10,13 +10,12 @@
 
 #pragma once
 
-//管理员文件
+//文件
 constexpr auto CONSUME_FILE = "consume.txt";
 
 //登录
 constexpr auto TEST_FILE = "consume1.txt";
 
-//订单文件
 constexpr auto VIP_FILE = "vip.txt";
 
 #endif /* globalFile_h */

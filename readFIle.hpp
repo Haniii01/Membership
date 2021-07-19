@@ -29,7 +29,7 @@ public:
     //更新预约条数
     int size;
     
-    //记录所有预约信息的容器，key记录条数，value记录具体的键值对信息
+    //记录所有信息的容器，key记录条数，value记录具体的键值对信息
     map<int, map<string,string>> orderData;
 };
 

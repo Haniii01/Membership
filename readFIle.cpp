@@ -120,5 +120,5 @@ void OrderFile::updateOrder()
     ofs.close();
 }
 
-//记录所有预约信息的容器，key记录条数，value记录具体的键值对信息
+//记录所有信息的容器，key记录条数，value记录具体的键值对信息
 map<int, map<string,string>> orderData;
